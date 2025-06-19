@@ -6,7 +6,7 @@ Esse projeto foi feito com o intuito de classificar e exibir algumas informçõe
 
 ###  ⚡ Sobre Mim:
 
-Costumo buscar sempre proporcionar um ambiente de aprendizagem da forma mais didática possível, frequentemente utilizando o ASCE, meu robô educacional. No entanto, desta vez decidi ir além: explorei a ferramenta DeepSeek para desenvolver o front-end do meu projeto, que está integrado ao Thinker. Ainda assim, deixarei disponível também o projeto que desenvolvi de forma independente, sem auxílio externo. Pretendo continuar utilizando essa inteligência artificial enquanto aprimoro meus conhecimentos em front-end com Python.
+Costumo buscar sempre proporcionar um ambiente de aprendizagem da forma mais didática possível, frequentemente utilizando o ASCE, meu robô educacional. No entanto, desta vez decidi ir além: explorei a ferramenta DeepSeek para desenvolver o front-end do meu projeto, que está integrado ao Tkinker. Ainda assim, deixarei disponível também o projeto que desenvolvi de forma independente, sem auxílio externo. Pretendo continuar utilizando essa inteligência artificial enquanto aprimoro meus conhecimentos em front-end com Python.
 
 ###  📌 Desafios e Aprendizados:
 
